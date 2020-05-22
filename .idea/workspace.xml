@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd27b5e5-0eeb-4d6a-b77f-ff93f509d3f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/exercise1/BaseTokenizer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/exercise1/Main.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/exercise1/ReutersTokenizer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/exercise1/WikiATokenizer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/example/LoadCorpusExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/de/uniwue/ir/example/LoadCorpusExample.scala" afterDir="false" />
-    </list>
+    <list default="true" id="cd27b5e5-0eeb-4d6a-b77f-ff93f509d3f3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +159,7 @@
       <workItem from="1589877397924" duration="1367000" />
       <workItem from="1589880864400" duration="12809000" />
       <workItem from="1590053377270" duration="990000" />
+      <workItem from="1590156301451" duration="905000" />
     </task>
     <servers />
   </component>

@@ -15,19 +15,14 @@ object Main {
 
     // Load reuters
     val df = load_corpus(corpus_path, sparkSession)
-    //
+    // tokenize reuters
     val token = df.withColumn(
       "value",
       tokenizer.tokenize($"value")).as[String]
 
-    token.show(false)
-    println(token.getClass)
     // count types
-    val token_flattened = Array[String]()
-    token("values").ae
-    val types = Set(token_flattened)
-    println("Number of types: " + types)
-    println("Number of tokens: " + token_flattened.length)
+    token.reduce((a, b) => if (a != b) a else null)
+
 
   }
   def main(args: Array[String]): Unit = {
